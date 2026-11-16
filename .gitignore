@@ -1,0 +1,50 @@
+# Local authoring, rendering and review files
+/.work/
+/.work_final/
+
+# Runtime output is recreated by the demo; submitted evidence is in minh_chung/
+/Bo_nop_De10_MPL/demo/runs/
+/Bo_nop_De10_MPL/demo/content/
+/Bo_nop_De10_MPL/demo/route.vm.json
+/Bo_nop_De10_MPL/demo/probes_vm.csv
+/Bo_nop_De10_MPL/demo/probes_vm.summary.json
+/Bo_nop_De10_MPL/demo/KT[123]_data.json
+/Bo_nop_De10_MPL/demo/source_manifest.json
+/Bo_nop_De10_MPL/demo/target_manifest.json
+/Bo_nop_De10_MPL/demo/transfer.zip
+
+# Local distribution archives duplicate the tracked deliverables
+/Bo_nop_De10_MPL*.zip
+
+# Python caches, virtual environments and test caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editors, operating systems, temporary and lock files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+.~lock.*#
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Local settings and secrets; example configuration files stay tracked
+.env
+.env.*
+!.env.example
+
+# Do not ignore *.log, *.json, *.csv, *.png, *.docx or *.mp4 globally:
+# these formats contain the assignment, source assets and submitted evidence.

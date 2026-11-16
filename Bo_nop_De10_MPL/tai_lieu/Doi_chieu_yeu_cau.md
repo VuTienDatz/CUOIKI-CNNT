@@ -17,9 +17,9 @@
 | Dấu thời gian, dữ liệu đo gốc | 6.1 | UTC trong events, HTTP, probes và summary; không benchmark tải |
 | README, phiên bản, dựng lại, chạy test | 4.2 | README gốc bộ file; hướng dẫn Word; tools |
 | Video 5–7 phút | 7.1 | MP4 minh họa 6 phút và kịch bản phân vai |
-| 4 người, mỗi người kỹ thuật riêng | 7.1 | Word phân công, CSV và phiếu cá nhân để tự ghi xác nhận |
+| 4 người, mỗi người kỹ thuật riêng | 7.1 | 4 báo cáo cá nhân theo mẫu; Word phân công và phiếu xác nhận trong huong_dan_nhom/ |
 | Dữ liệu giả, môi trường được phép | 1.1 và 6.2 | 200 mã không có thông tin khách hàng; loopback lab |
 | Nêu nguồn và cách dùng AI | 7.2 và tài liệu tham khảo | Nguồn chính thức, công bố AI, trách nhiệm chạy lại |
 | Câu hỏi bảo vệ chi phí bỏ sót | 6.2 | Đĩa, truyền, backup, IPv4, log, nhân sự, chuyển một lần và phần giữ lại |
 
-Mở rộng tự chọn không được dùng thay yêu cầu lõi. KT4 và KT5 là hai kiểm tra bổ sung; nhóm không cần dựng WMS/MySQL/HA nhiều AZ để hoàn thành đề 10.
+KT4 và KT5 là kiểm tra bổ sung. Phạm vi bắt buộc được nghiệm thu bằng KT1–KT3; các nội dung mở rộng không thay thế minh chứng lõi.

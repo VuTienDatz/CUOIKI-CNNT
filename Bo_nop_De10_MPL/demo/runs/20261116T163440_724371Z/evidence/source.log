@@ -1,8 +1,0 @@
-{"instance": "source", "root": "C:\\Users\\LOQ\\Documents\\New folder\\CUOIKI\\Bo_nop_De10_MPL\\demo\\runs\\20261116T163440_724371Z\\source\\content", "host": "127.0.0.1", "port": 18081}
-2026-11-16T16:34:41.530014+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:34:41.556893+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:34:42.089958+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:34:42.146374+00:00 source "GET /data/shipments.json HTTP/1.1" 200 -
-2026-11-16T16:34:44.396736+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:34:44.424270+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:34:44.437582+00:00 source "GET /data/shipments.json HTTP/1.1" 200 -

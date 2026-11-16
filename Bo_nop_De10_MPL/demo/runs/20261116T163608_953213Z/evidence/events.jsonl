@@ -1,6 +1,0 @@
-{"timestamp_utc": "2026-11-16T16:36:11.496+00:00", "event": "KT1_PASS", "records": 200, "files": 3}
-{"timestamp_utc": "2026-11-16T16:36:11.527+00:00", "event": "unhealthy_target_cutover_rejected", "route": "http://127.0.0.1:18081"}
-{"timestamp_utc": "2026-11-16T16:36:11.668+00:00", "event": "KT2_PASS", "instance": "target", "bytes": 27882}
-{"timestamp_utc": "2026-11-16T16:36:11.676+00:00", "event": "target_fault_injected"}
-{"timestamp_utc": "2026-11-16T16:36:11.697+00:00", "event": "failure_detected", "http_status": 503}
-{"timestamp_utc": "2026-11-16T16:36:13.800+00:00", "event": "KT3_PASS", "last_success_before_fault_utc": "2026-11-16T16:36:11.668+00:00", "first_failure_utc": "2026-11-16T16:36:11.697+00:00", "first_success_after_rollback_utc": "2026-11-16T16:36:13.797+00:00", "observed_outage_seconds": 2.093, "upper_bound_seconds": 2.125, "probe_interval_seconds": 0.1, "intentional_fault_hold_seconds": 2, "clock": "monotonic duration; UTC wall time for evidence"}

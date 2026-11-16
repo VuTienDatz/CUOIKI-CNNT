@@ -1,0 +1,14 @@
+# Preserve exact bytes: report manifests and evidence rely on SHA-256.
+Bo_nop_De10_MPL/** -text
+tai_lieu_goc/** -text
+
+# Show binary deliverables correctly in Git.
+*.docx binary
+*.png binary
+*.mp4 binary
+*.zip binary
+
+# Keep repository entry files consistent.
+/README.md text eol=lf
+/.gitignore text eol=lf
+/.gitattributes text eol=lf

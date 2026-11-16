@@ -1,8 +1,0 @@
-{
-  "timestamp_utc": "2026-11-16T16:34:42.148+00:00",
-  "url": "http://127.0.0.1:18080/data/shipments.json",
-  "status": 200,
-  "instance": "source",
-  "records": 200,
-  "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
-}

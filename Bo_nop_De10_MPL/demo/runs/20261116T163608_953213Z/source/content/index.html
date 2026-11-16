@@ -1,7 +1,0 @@
-<!doctype html><html lang="vi"><meta charset="utf-8">
-<title>MPL Logistics Demo</title><style>body{font:18px Arial;max-width:880px;margin:50px auto;background:#f5f7fa;color:#152b42}main{background:white;padding:30px;border-radius:12px}a{color:#075ca8}pre{white-space:pre-wrap}</style>
-<main><h1>MPL Logistics</h1><p>Cổng dữ liệu công khai thử nghiệm</p>
-<p>Dữ liệu giả định gồm 200 vận đơn không có thông tin khách hàng.</p>
-<p><a href="/data/shipments.json">Mở 200 vận đơn mẫu</a> · <a href="/files/readme.txt">Tải tập tin mẫu</a></p>
-<pre id="status">Đang kiểm tra dịch vụ</pre></main>
-<script>fetch('/health').then(r=>r.json()).then(v=>document.getElementById('status').textContent='Dịch vụ: '+v.instance+' | '+v.status)</script></html>

@@ -1,0 +1,537 @@
+[
+  {
+    "path": "01_Bao_cao_De10_MPL_theo_form_V2.docx",
+    "bytes": 1759999,
+    "sha256": "a6ae61151c9cb01cd9667a14f9c6d1365d9588b101fa66ccf88d8942b15567b2"
+  },
+  {
+    "path": "bao_cao_ca_nhan/SV1_B24DCCC002_Dang_Thai_An_Bao_cao_ca_nhan.docx",
+    "bytes": 31008,
+    "sha256": "2eac165167aef7b6898f178e9557a6d1c5b85cf9e2a83d211eba754f7bac6515"
+  },
+  {
+    "path": "bao_cao_ca_nhan/SV2_B24DCCC071_Pham_Minh_Duc_Bao_cao_ca_nhan.docx",
+    "bytes": 30775,
+    "sha256": "b4e3c28fca29384c72163aae4dd52d9354fceeebfabd9d7b74c9ba71777469b7"
+  },
+  {
+    "path": "bao_cao_ca_nhan/SV3_B24DCCC062_Vu_Tien_Dat_Bao_cao_ca_nhan.docx",
+    "bytes": 30858,
+    "sha256": "7b69293de20d8e29d575e89b3b68c62eb187af0fb24bc45a5959948461f69cd0"
+  },
+  {
+    "path": "bao_cao_ca_nhan/SV4_B24DCCC0_Tran_Thi_Lan_Anh_Bao_cao_ca_nhan.docx",
+    "bytes": 31039,
+    "sha256": "9d8f1d8baf4b3f2c3273c1cb42389f1a018aacde69cb67a3be9f4d17f5d77fa6"
+  },
+  {
+    "path": "bieu_mau/dong_gop_ca_nhan.csv",
+    "bytes": 246,
+    "sha256": "e5a65383ff56c4955adaf52cf037155b8aa282cacc8820469ca6ed8aadae7d5e"
+  },
+  {
+    "path": "bieu_mau/kiem_thu_VM.csv",
+    "bytes": 159,
+    "sha256": "254c0c48116e9de5bdbd6f478849fa2af0f7ed3d03273b39d09573bb24099c90"
+  },
+  {
+    "path": "demo/app/gateway.py",
+    "bytes": 2254,
+    "sha256": "686d328043fd3c2f6ca8eed1b378297db1c1994c57046a4d5429405f5f6cc439"
+  },
+  {
+    "path": "demo/app/service.py",
+    "bytes": 2537,
+    "sha256": "413ca953a1029f3417bcc9e7b90bbfb493b723713ba504ba351cb8f4e3818fa1"
+  },
+  {
+    "path": "demo/CHAY_DEMO.cmd",
+    "bytes": 149,
+    "sha256": "5c1ddbba8278649b60ae8e3fca67c02f105df7251a4a38bc1c4728e96efc943b"
+  },
+  {
+    "path": "demo/CHAY_TU_DONG.cmd",
+    "bytes": 109,
+    "sha256": "c6e2a0cee031a4e60c77df5b774c64cc8808e800d2674e039fe64ea4fcfd85ed"
+  },
+  {
+    "path": "demo/config/requirements.txt",
+    "bytes": 57,
+    "sha256": "4ada8cfb20ef6565e8dc58b98e25f0df329a04ab312a1f19fb09c3973ce27e69"
+  },
+  {
+    "path": "demo/config/route.source.example.json",
+    "bytes": 41,
+    "sha256": "57c07e37e8c8b0ddba617fb25871aefc093f2e87b6a55ff8122fabce80fab3a7"
+  },
+  {
+    "path": "demo/config/route.target.example.json",
+    "bytes": 41,
+    "sha256": "048afe2c379b29a6e4fcb69adc4110da5d4838e383cc21a95613d1850c9dfa3f"
+  },
+  {
+    "path": "demo/demo.py",
+    "bytes": 12107,
+    "sha256": "db6785a62760415502d76a2d4a3da8e3d6b8ff582ba2553b4a8c1a98d3e6bd25"
+  },
+  {
+    "path": "demo/tools/lab.py",
+    "bytes": 5444,
+    "sha256": "3e0c27ff8f5695db59b2ca7c513f24f5db97633f1ff30c77cb74caa44dd80488"
+  },
+  {
+    "path": "demo/tools/monitor.py",
+    "bytes": 2107,
+    "sha256": "ddfb2db9ae36fd422c98969e9c49d99ae256b645d8442ed300cc437527817036"
+  },
+  {
+    "path": "demo/tools/verify_http.py",
+    "bytes": 607,
+    "sha256": "09cde751ade1746a628200af16ac3d728689737e82045bcac8368e12d02ac9cf"
+  },
+  {
+    "path": "demo/tools/verify_submission.py",
+    "bytes": 2056,
+    "sha256": "fd51513f230929260f13beec56af3d2628aeb68488e401fd8076f0d6716eadf1"
+  },
+  {
+    "path": "HUONG_DAN_GIANG_VIEN.md",
+    "bytes": 3357,
+    "sha256": "367b2eee76e8a35d0e2f3f1011b9b12aa498e9baa584056a7ac1ad4f23b00f96"
+  },
+  {
+    "path": "huong_dan_nhom/02_Huong_dan_demo.docx",
+    "bytes": 47070,
+    "sha256": "e630a04de4640fa31c74760511aed420c52b35a9bf76621f5002e87e5e0d60d1"
+  },
+  {
+    "path": "huong_dan_nhom/03_Phan_cong_va_phieu_dong_gop.docx",
+    "bytes": 40541,
+    "sha256": "ec09bffb9616447cbe4947bc36402f5d938a9909f25d576ebce9b4ccec99a3ec"
+  },
+  {
+    "path": "huong_dan_nhom/Kich_ban_video.md",
+    "bytes": 2300,
+    "sha256": "cddcafcd5160b08deae274caa1571ba69c221bd6490ad1f86b81e1e8c88e366d"
+  },
+  {
+    "path": "huong_dan_nhom/README.md",
+    "bytes": 2540,
+    "sha256": "cf970adca325168ee70e92c8242197701e62baa11639ec85b0764fe718242863"
+  },
+  {
+    "path": "huong_dan_nhom/Video_chuong_muc.txt",
+    "bytes": 795,
+    "sha256": "90c23770b97cc8f15aa282f2c95605568604cdf130bfc16659bffe303781a13f"
+  },
+  {
+    "path": "minh_chung/anh_demo/01_nguon.png",
+    "bytes": 23804,
+    "sha256": "7251275aeff3b5834e56bf8c4832ea376d4ca9ded776c3809ead3e4e9dcbcc0e"
+  },
+  {
+    "path": "minh_chung/anh_demo/02_du_lieu_nguon.png",
+    "bytes": 36396,
+    "sha256": "16ef9b454e92bfbc7ee6bac75847b2ca75b3987ab6e4a9891c2cd78e223874e2"
+  },
+  {
+    "path": "minh_chung/anh_demo/03_dich.png",
+    "bytes": 23899,
+    "sha256": "331496ebb68207463653db286992ae311978182d628b2f42b6bdd450c08204ca"
+  },
+  {
+    "path": "minh_chung/anh_demo/04_health_dich.png",
+    "bytes": 6660,
+    "sha256": "d7298128fd1c92e77e02c3aa611700ca79a63a1e43fe4c8f611d6c427c432f0c"
+  },
+  {
+    "path": "minh_chung/anh_demo/05_loi_503.png",
+    "bytes": 6638,
+    "sha256": "4ea588d3dafe8e042c9efda4e64cb92cc626a161b897d0f97a592a27b389eb71"
+  },
+  {
+    "path": "minh_chung/anh_demo/06_quay_ve_nguon.png",
+    "bytes": 23804,
+    "sha256": "7251275aeff3b5834e56bf8c4832ea376d4ca9ded776c3809ead3e4e9dcbcc0e"
+  },
+  {
+    "path": "minh_chung/anh_demo/capture_metadata.json",
+    "bytes": 761,
+    "sha256": "8147f59bcab07b4edde1c7cb2c1b61a983871eea2b20807ee28360fa4ebcf7be"
+  },
+  {
+    "path": "minh_chung/anh_demo/console_capture.txt",
+    "bytes": 1353,
+    "sha256": "c3f9d258c799003079dac192ee52ea03d6a41d3fd85e58b2c1f206b77a57fcc9"
+  },
+  {
+    "path": "minh_chung/demo_docker/container_inspect.json",
+    "bytes": 19751,
+    "sha256": "a17c286f454cb66516143f6ee234d30baa05525ef534e32ddfca65598d536fef"
+  },
+  {
+    "path": "minh_chung/demo_docker/cutover_route.json",
+    "bytes": 45,
+    "sha256": "52391eaf1f12f11de17715c4b8e781e8999ffc6f47d2e5c73ef629ecb421859a"
+  },
+  {
+    "path": "minh_chung/demo_docker/docker_version.json",
+    "bytes": 1146,
+    "sha256": "f3d2547b86672f31ee7cc1c5d81da3707d35d58d1b0c3726960aa40fcb6b15af"
+  },
+  {
+    "path": "minh_chung/demo_docker/environment.json",
+    "bytes": 461,
+    "sha256": "131a6e60798b3ffaca8e89ac4997cde75224da450da993189cabe87ad5f15b89"
+  },
+  {
+    "path": "minh_chung/demo_docker/events.jsonl",
+    "bytes": 985,
+    "sha256": "4ad1bb9f971e2d6cbabbaec411321250e72de1a57c2559db419708bf8d1165ec"
+  },
+  {
+    "path": "minh_chung/demo_docker/gateway.log",
+    "bytes": 1814,
+    "sha256": "342f1842e56e7fef195ea699c171c0461d798fc42bdd3c24c7c1abb3da873e91"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT1_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT1_http.json",
+    "bytes": 257,
+    "sha256": "22cf5be779cdb76e322bf3fe1e999fad329a8f1137c1db80bfa82c8e0ffd8170"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT2_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT2_http.json",
+    "bytes": 257,
+    "sha256": "31518311c4d9b8d6f8e57b0b463a39ee3fcb11508491fcc6e5456cad7a197bdb"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT3_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_docker/KT3_http.json",
+    "bytes": 257,
+    "sha256": "d5afb3c265f26747d0f8958e3ab04b47d5fc94f621420bab321e7148d2a5f403"
+  },
+  {
+    "path": "minh_chung/demo_docker/negative_manifest.json",
+    "bytes": 169,
+    "sha256": "2c2c9bd15dfb22a67217c842a2f27b4f5d596dea6942382332e4ae0796634ecd"
+  },
+  {
+    "path": "minh_chung/demo_docker/probes.csv",
+    "bytes": 832,
+    "sha256": "0fadc2ff5486f8a89375a380bed23c499aba5f8c994cacbe07f89a9f2bcd6621"
+  },
+  {
+    "path": "minh_chung/demo_docker/rollback_route.json",
+    "bytes": 45,
+    "sha256": "4671f144da976fd1dc868992432f8e707efb12a89ad97d8fcdd3e05379f43386"
+  },
+  {
+    "path": "minh_chung/demo_docker/rollback_timing.json",
+    "bytes": 409,
+    "sha256": "824f7dca2deb157172b51d9e3064101b987f08f79aae2f9681cb8dcb0cee77e2"
+  },
+  {
+    "path": "minh_chung/demo_docker/source.log",
+    "bytes": 590,
+    "sha256": "7f938a184d2bf0a2f10c356af9227d73bcee50c078cd01586913556f4a9d921a"
+  },
+  {
+    "path": "minh_chung/demo_docker/source_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_docker/summary.json",
+    "bytes": 1005,
+    "sha256": "b07ae5fc2ca778df697528cb44fa843b668e099bea88b4e081e311215329b626"
+  },
+  {
+    "path": "minh_chung/demo_docker/target.log",
+    "bytes": 1750,
+    "sha256": "30e5ac2718badeb1f26e95c5b521ba1e0c673e4da9cfd6b5510adf32ef21d902"
+  },
+  {
+    "path": "minh_chung/demo_docker/target_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_docker/test_results.csv",
+    "bytes": 1293,
+    "sha256": "265cad233003dcad841a1773f4995c6ea0be63770905249a32fcc6caffc76b52"
+  },
+  {
+    "path": "minh_chung/demo_docker/transfer.zip",
+    "bytes": 2207,
+    "sha256": "d09287a04247b8bb424b2129e544e3d83aba06f727845d6917e053fc83d51ac8"
+  },
+  {
+    "path": "minh_chung/demo_local/cutover_route.json",
+    "bytes": 45,
+    "sha256": "52391eaf1f12f11de17715c4b8e781e8999ffc6f47d2e5c73ef629ecb421859a"
+  },
+  {
+    "path": "minh_chung/demo_local/environment.json",
+    "bytes": 443,
+    "sha256": "33fbbcf62b8bbcb8426dd744f73b55ff188f075434134c38b504348c05284896"
+  },
+  {
+    "path": "minh_chung/demo_local/events.jsonl",
+    "bytes": 985,
+    "sha256": "0a035e93d30b3043f54b697eae3d2f9f8e2ec1c682ee6f5f572533537b49b7d8"
+  },
+  {
+    "path": "minh_chung/demo_local/gateway.log",
+    "bytes": 1743,
+    "sha256": "0d7969a55fe3a248d1ffdc945fa7527b88c341d15dd0fdd815bb21de4df4c145"
+  },
+  {
+    "path": "minh_chung/demo_local/KT1_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_local/KT1_http.json",
+    "bytes": 257,
+    "sha256": "9b9e0ae69e238b58cf3b679a86457e2d28151e8fcb3f5e94241c681c1fb39f96"
+  },
+  {
+    "path": "minh_chung/demo_local/KT2_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_local/KT2_http.json",
+    "bytes": 257,
+    "sha256": "30055b2fc2d9e6bc6636887ccaa5fcb0a343bb350de172fa10eb3113296e4a0e"
+  },
+  {
+    "path": "minh_chung/demo_local/KT3_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_local/KT3_http.json",
+    "bytes": 257,
+    "sha256": "95a688bad2ea98449bcef739c6a9b275a9eeab3944ac90fc23eca84dba558bf0"
+  },
+  {
+    "path": "minh_chung/demo_local/negative_manifest.json",
+    "bytes": 169,
+    "sha256": "6044414e59839cfc4c68d1664bd6c4c9ec15591d3949f1d3fcc4f18b8d9fcc62"
+  },
+  {
+    "path": "minh_chung/demo_local/probes.csv",
+    "bytes": 790,
+    "sha256": "668ee322d7c8373e51e737a8f8e50b8f519f787379f98a60551bc9c9f99963a2"
+  },
+  {
+    "path": "minh_chung/demo_local/rollback_route.json",
+    "bytes": 45,
+    "sha256": "4671f144da976fd1dc868992432f8e707efb12a89ad97d8fcdd3e05379f43386"
+  },
+  {
+    "path": "minh_chung/demo_local/rollback_timing.json",
+    "bytes": 409,
+    "sha256": "5528ed8633c6476ca991e156561b941f2f5079f5aa779d3384e08ff9c50416f5"
+  },
+  {
+    "path": "minh_chung/demo_local/source.log",
+    "bytes": 704,
+    "sha256": "4a5ed376f69156fab6a2f4f1a483092c66d30694c90e7a2e0cf3001fef8f9227"
+  },
+  {
+    "path": "minh_chung/demo_local/source_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_local/summary.json",
+    "bytes": 987,
+    "sha256": "7696b5057a58af888678ad3efeb012495da7970eca3435d8d7326945a2914741"
+  },
+  {
+    "path": "minh_chung/demo_local/target.log",
+    "bytes": 1811,
+    "sha256": "4414bab56ffc5701edf1fcd2953e89a199330cf1bf70511c47ca7ab9c1b02739"
+  },
+  {
+    "path": "minh_chung/demo_local/target_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_local/test_results.csv",
+    "bytes": 1293,
+    "sha256": "c051c14b2094688d8e54087d7acedfff90246fdc8bfe7e77bbe172deca97f0a5"
+  },
+  {
+    "path": "minh_chung/demo_video/container_inspect.json",
+    "bytes": 19752,
+    "sha256": "5875d03b8befaa3aa338828d9553c8a3c981668491dd64b5e7ae4fbdf4bc121a"
+  },
+  {
+    "path": "minh_chung/demo_video/cutover_route.json",
+    "bytes": 45,
+    "sha256": "52391eaf1f12f11de17715c4b8e781e8999ffc6f47d2e5c73ef629ecb421859a"
+  },
+  {
+    "path": "minh_chung/demo_video/docker_version.json",
+    "bytes": 1146,
+    "sha256": "f3d2547b86672f31ee7cc1c5d81da3707d35d58d1b0c3726960aa40fcb6b15af"
+  },
+  {
+    "path": "minh_chung/demo_video/environment.json",
+    "bytes": 461,
+    "sha256": "fb2ad5a49e8f53448b3527fabbf87ff2e7493d36b609bdf4931cf81267dd90be"
+  },
+  {
+    "path": "minh_chung/demo_video/events.jsonl",
+    "bytes": 984,
+    "sha256": "c5cb5efb5a0caac597e900edeee6967e08ec2f87bcc05189259554fb0cd57dd4"
+  },
+  {
+    "path": "minh_chung/demo_video/gateway.log",
+    "bytes": 2594,
+    "sha256": "bf4e73b79adff589a3e46f62a32ebb23d0cbf6116f69b03463b2caa2464b3a4c"
+  },
+  {
+    "path": "minh_chung/demo_video/KT1_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_video/KT1_http.json",
+    "bytes": 257,
+    "sha256": "acda2db3771fdba04de09b2fa48de07280f529a3e5a5124d323fb721db1751bf"
+  },
+  {
+    "path": "minh_chung/demo_video/KT2_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_video/KT2_http.json",
+    "bytes": 257,
+    "sha256": "63e890355cf767fae95bbd48bf9dbecf23c573a1413fabab8db388a1db75084d"
+  },
+  {
+    "path": "minh_chung/demo_video/KT3_data.json",
+    "bytes": 27005,
+    "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+  },
+  {
+    "path": "minh_chung/demo_video/KT3_http.json",
+    "bytes": 257,
+    "sha256": "05749be317332ab7b0f1482b9569999b052bb440b027a44a61ea207e4043e7e0"
+  },
+  {
+    "path": "minh_chung/demo_video/negative_manifest.json",
+    "bytes": 169,
+    "sha256": "da3664f3fb82d7e65041bcdcc829ef1a5e017c18aa821d4c3c87ed18ea417e1d"
+  },
+  {
+    "path": "minh_chung/demo_video/probes.csv",
+    "bytes": 832,
+    "sha256": "8ef81b7d1a79a8461705b4768316cc968f73ef39f4e666671b799716a30073c8"
+  },
+  {
+    "path": "minh_chung/demo_video/rollback_route.json",
+    "bytes": 45,
+    "sha256": "4671f144da976fd1dc868992432f8e707efb12a89ad97d8fcdd3e05379f43386"
+  },
+  {
+    "path": "minh_chung/demo_video/rollback_timing.json",
+    "bytes": 408,
+    "sha256": "d611758a7937dda53d8b89c2d4c88d8560567282a57dbbab16825c30f171ef8e"
+  },
+  {
+    "path": "minh_chung/demo_video/source.log",
+    "bytes": 936,
+    "sha256": "a8d0325d56efa82eb32c87c97a3d7447f2ac7943475832c532d109ac226a1fb5"
+  },
+  {
+    "path": "minh_chung/demo_video/source_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_video/summary.json",
+    "bytes": 1004,
+    "sha256": "703ebc7d57555b11bf317582c2769f18fd79f235e68c962a406596ab6f8248b9"
+  },
+  {
+    "path": "minh_chung/demo_video/target.log",
+    "bytes": 2020,
+    "sha256": "177645843698d45c1ef4b44b6c4effe93266ae3ecdc29e92447685b5e9b277f8"
+  },
+  {
+    "path": "minh_chung/demo_video/target_manifest.json",
+    "bytes": 532,
+    "sha256": "587bfc20bfe1ce3157ba18828e2e2e7d5fa2ed70a4cd5968ad0d99569bc465a8"
+  },
+  {
+    "path": "minh_chung/demo_video/test_results.csv",
+    "bytes": 1292,
+    "sha256": "029fdbf9f538c0f0af07902f8ccc67fa8e0063f02cf008a9395fc5b268030fea"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6247,
+    "sha256": "1fa6405b129768460389beb33b05cccd9143d61fe0ce488614bf45091e0c268d"
+  },
+  {
+    "path": "tai_lieu/04_Video_minh_hoa_demo_6_phut.mp4",
+    "bytes": 1645524,
+    "sha256": "213a264a0a704b47e1c41dc33084b39bdc016581ba7b24d55db4f14d7924c5ae"
+  },
+  {
+    "path": "tai_lieu/Doi_chieu_yeu_cau.md",
+    "bytes": 2616,
+    "sha256": "0a5e27dfa608968eb82f2349dd9b171888e09f44212b48d2c64f69ba292a8a2b"
+  },
+  {
+    "path": "thiet_ke/01_AsIs.png",
+    "bytes": 70746,
+    "sha256": "c2e84a05229b4e42e977e00beb096c9e28b7abaea608b8b84350350010678803"
+  },
+  {
+    "path": "thiet_ke/02_ToBe.png",
+    "bytes": 93270,
+    "sha256": "02b7e10f0bd12dee6fd8a7cbf0196e9472f22c160a0e5a0162287b6716d6f132"
+  },
+  {
+    "path": "thiet_ke/03_Migration.png",
+    "bytes": 66035,
+    "sha256": "4907e08671f6bfe1993893552d4bd83c49a1bb803419d9dae227b5cec495d5a8"
+  },
+  {
+    "path": "thiet_ke/chi_phi_gia_dinh.csv",
+    "bytes": 995,
+    "sha256": "7034d64036b5b7d3fdfa936d6aa6b99a2241132e6985aa0f6641f5b19e8bd42d"
+  },
+  {
+    "path": "thiet_ke/so_do.mmd",
+    "bytes": 356,
+    "sha256": "695c4090010586f74ba6976768321f8998c3d2b33c7951b13a1cfc7df0d05c29"
+  },
+  {
+    "path": "thiet_ke/tai_nguyen_ip_quyen.csv",
+    "bytes": 502,
+    "sha256": "154b931e3650f408a261d6bf014a30ec3b34757717709b9885cc0427eba8ce20"
+  }
+]

@@ -1,6 +1,0 @@
-﻿test_id,input,action,expected,actual,status,timestamp_utc,evidence
-KT1,200 fictional shipments / 3 Web files,Read source through stable endpoint; save manifest,HTTP 200; source; 200 unique IDs,HTTP 200; source; 200 unique IDs; 3 files,PASS,2026-11-16T17:03:44.725+00:00,KT1_data.json; KT1_http.json; source_manifest.json
-KT4,Empty target,Attempt gated cutover,Reject; route remains source,Rejected; source retained,PASS,2026-11-16T17:03:46.154+00:00,events.jsonl
-KT5,Copied manifest with one changed hash,Compare to source,Detect mismatch,Mismatch detected,PASS,2026-11-16T17:03:46.200+00:00,negative_manifest.json
-KT2,Source archive / manifest / stable endpoint,"Transfer, compare, health gate, switch endpoint","Same 200 records, all file hashes equal; target serves endpoint",200 records byte-identical; all 3 file hashes equal; instance=target,PASS,2026-11-16T17:03:46.270+00:00,KT2_data.json; KT2_http.json; target_manifest.json; cutover_route.json
-KT3,Healthy target followed by injected HTTP 503,"Detect, health-check source, route back, compare",Source serves endpoint; same data; outage measured,instance=source; 200 records match; observed outage=2.14 s,PASS,2026-11-16T17:03:49.675+00:00,KT3_data.json; KT3_http.json; rollback_timing.json; probes.csv; rollback_route.json

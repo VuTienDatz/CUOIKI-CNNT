@@ -1,8 +1,0 @@
-{"instance": "source", "root": "/data/content", "host": "0.0.0.0", "port": 8080}
-2026-11-16T16:36:10.822872+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:36:10.842437+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:36:11.451292+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:36:11.484522+00:00 source "GET /data/shipments.json HTTP/1.1" 200 -
-2026-11-16T16:36:13.734790+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:36:13.776917+00:00 source "GET /health HTTP/1.1" 200 -
-2026-11-16T16:36:13.793226+00:00 source "GET /data/shipments.json HTTP/1.1" 200 -
