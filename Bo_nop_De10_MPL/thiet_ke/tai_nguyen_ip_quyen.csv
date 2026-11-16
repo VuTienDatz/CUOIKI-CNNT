@@ -2,3 +2,4 @@
 SOURCE,Web nguon,1 vCPU,1 GiB,10 GiB,192.168.56.11,8080,Web chi doc
 TARGET,Web dich mo phong IaaS,1 vCPU,1 GiB,10 GiB,192.168.56.12,8080,Web chi doc
 CLIENT/GATEWAY,Dau truy cap on dinh,host,host,< 1 GiB,192.168.56.1,18080,Doi route boi nguoi quan tri
+IaaS Web thiết kế,Cloud thật chưa triển khai,2 vCPU,4 GiB,80 GiB,Theo nhà cung cấp,HTTPS 443; SSH giới hạn,Người xem đọc; quản trị triển khai; Web đọc nội dung

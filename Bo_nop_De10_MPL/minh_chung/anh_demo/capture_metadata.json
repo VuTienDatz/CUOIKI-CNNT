@@ -1,0 +1,32 @@
+[
+  {
+    "name": "01_nguon",
+    "url": "http://127.0.0.1:18080",
+    "captured_utc": "2026-11-16T17:03:45.536Z"
+  },
+  {
+    "name": "02_du_lieu_nguon",
+    "url": "http://127.0.0.1:18080/data/shipments.json",
+    "captured_utc": "2026-11-16T17:03:46.138Z"
+  },
+  {
+    "name": "03_dich",
+    "url": "http://127.0.0.1:18080",
+    "captured_utc": "2026-11-16T17:03:46.939Z"
+  },
+  {
+    "name": "04_health_dich",
+    "url": "http://127.0.0.1:18080/health",
+    "captured_utc": "2026-11-16T17:03:47.506Z"
+  },
+  {
+    "name": "05_loi_503",
+    "url": "http://127.0.0.1:18080/health",
+    "captured_utc": "2026-11-16T17:03:47.699Z"
+  },
+  {
+    "name": "06_quay_ve_nguon",
+    "url": "http://127.0.0.1:18080",
+    "captured_utc": "2026-11-16T17:03:50.322Z"
+  }
+]

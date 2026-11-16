@@ -1,0 +1,7 @@
+{"timestamp_utc": "2026-11-16T17:03:44.725+00:00", "event": "KT1_PASS", "records": 200, "files": 3}
+KT1: Open http://127.0.0.1:18080 and show source, then continue migration [Enter] {"timestamp_utc": "2026-11-16T17:03:46.154+00:00", "event": "unhealthy_target_cutover_rejected", "route": "http://127.0.0.1:18081"}
+{"timestamp_utc": "2026-11-16T17:03:46.270+00:00", "event": "KT2_PASS", "instance": "target", "bytes": 27882}
+KT2: Refresh http://127.0.0.1:18080 and show target plus matching manifests [Enter] {"timestamp_utc": "2026-11-16T17:03:47.529+00:00", "event": "target_fault_injected"}
+{"timestamp_utc": "2026-11-16T17:03:47.535+00:00", "event": "failure_detected", "http_status": 503}
+{"timestamp_utc": "2026-11-16T17:03:49.675+00:00", "event": "KT3_PASS", "last_success_before_fault_utc": "2026-11-16T17:03:47.506+00:00", "first_failure_utc": "2026-11-16T17:03:47.535+00:00", "first_success_after_rollback_utc": "2026-11-16T17:03:49.672+00:00", "observed_outage_seconds": 2.14, "upper_bound_seconds": 2.156, "probe_interval_seconds": 0.1, "intentional_fault_hold_seconds": 2, "clock": "monotonic duration; UTC wall time for evidence"}
+KT3: Show source after rollback; examine evidence; press Enter to stop demo servers [Enter] EVIDENCE: C:\Users\LOQ\Documents\New folder\CUOIKI\Bo_nop_De10_MPL\demo\runs\20261116T170342_097580Z\evidence

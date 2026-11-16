@@ -79,6 +79,7 @@ for num in range(1,16):
     if num in chapters:entries.append((chapters[num],True))
     t=txt(blocks[num][0]);entries.append((mapping[num]+' '+t.split(' ',1)[1],False))
 entries.extend([('7.2 Sử dụng AI và trách nhiệm nhóm',False),('7.3 Kết luận',False),('TÀI LIỆU THAM KHẢO',True)])
+(ROOT/'.work/toc_entries.json').write_text(json.dumps([x[0] for x in entries],ensure_ascii=False,indent=2),encoding='utf-8')
 pagecache=ROOT/'.work/toc_pages.json'
 page_values=json.loads(pagecache.read_text(encoding='utf-8')) if pagecache.exists() else {}
 for i,(label,is_ch) in enumerate(entries):
@@ -109,6 +110,16 @@ for rel in newrels:
         parts['word/'+newtarget]=content['word/'+orig_target]
 
 def update_crossrefs(t):
+    concise={
+    '01_Bao_cao_De10_MPL.docx có 16 trang nội dung chính; 02_Huong_dan_demo.docx liên kết bước chạy với mã file và ca kiểm thử; 03_Phan_cong_va_phieu_dong_gop.docx phục vụ tổ chức và xác nhận đóng góp. Thư mục demo chứa mã, cấu hình và công cụ chạy; thiet_ke chứa sơ đồ, bảng tài nguyên và chi phí; minh_chung chứa dữ liệu gốc.':
+    'Bộ nộp gồm báo cáo theo form V2, hướng dẫn demo, phân công và phiếu đóng góp. Thư mục demo chứa mã và cấu hình; thiet_ke chứa sơ đồ cùng bảng tài nguyên, chi phí; minh_chung chứa dữ liệu gốc.',
+    'README.md chỉ điểm vào toàn bộ bộ nộp. tai_lieu/Kich_ban_video.md phân bổ 6 phút cho 4 người; video minh họa kèm theo sử dụng ảnh và log từ demo thực. Nhóm nên quay lại theo phân vai để thể hiện thao tác cá nhân. bieu_mau giữ biểu mẫu sạch để chạy lại.':
+    'README.md chỉ điểm vào bộ file. Kịch bản video 6 phút và video minh họa gắn các bước với bằng chứng. Nhóm chạy lại theo phân vai và dùng biểu mẫu sạch để ghi kết quả cá nhân.',
+    'summary.json tổng hợp kết quả và giới hạn môi trường. source_manifest.json cùng target_manifest.json cho phép kiểm lại toàn bộ file. KT1_data.json, KT2_data.json, KT3_data.json là phản hồi dữ liệu gốc. probes.csv giữ chuỗi HTTP trong thời gian lỗi; events.jsonl và log từng dịch vụ giúp truy vết thao tác.':
+    'Hồ sơ gốc gồm summary.json, hai manifest, dữ liệu phản hồi KT1–KT3, probes.csv, events.jsonl và log từng dịch vụ; đủ để kiểm lại dữ liệu, endpoint và chuỗi thời gian.',
+    }
+    t=concise.get(t,t)
+    t=t.replace('Mục 2 và 3','Mục 1.2 và 1.3').replace('Mục 4 đến 6','Mục 2.1 đến 2.3').replace('Mục 8 đến 13','Mục 4.1 đến 6.1')
     t=t.replace('16 trang nội dung chính','nội dung chính trong giới hạn phiếu giao đề')
     t=t.replace('giảng viên và hạn nộp','hạn nộp').replace('lớp, nhóm, giảng viên, hạn nộp','lớp, nhóm, hạn nộp')
     t=t.replace('Báo Cáo BTL CNNT.docx','Báo Cáo BTL CNNT V2.docx')
@@ -177,8 +188,11 @@ body.append(para('TÀI LIỆU THAM KHẢO','Heading1'))
 no_break(body[-1])
 for node in tail[1:cut]:
     if node.tag!=w('p') or not txt(node):continue
+    if txt(node).startswith('Các nguồn trực tuyến'):continue
     no_break(node)
     for tt in node.xpath('.//w:t',namespaces=NS):tt.text=update_crossrefs(tt.text or '')
+    if txt(node).startswith('[6]'):
+        tt=node.xpath('.//w:t',namespaces=NS)[-1];tt.text+=' Nguồn [1]–[5] truy cập ngày 16/11/2026.'
     body.append(node)
 body.append(sect)
 parts['word/document.xml']=ET.tostring(orig,xml_declaration=True,encoding='UTF-8',standalone=True)

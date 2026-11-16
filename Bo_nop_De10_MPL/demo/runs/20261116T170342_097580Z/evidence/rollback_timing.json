@@ -1,0 +1,10 @@
+{
+  "last_success_before_fault_utc": "2026-11-16T17:03:47.506+00:00",
+  "first_failure_utc": "2026-11-16T17:03:47.535+00:00",
+  "first_success_after_rollback_utc": "2026-11-16T17:03:49.672+00:00",
+  "observed_outage_seconds": 2.14,
+  "upper_bound_seconds": 2.156,
+  "probe_interval_seconds": 0.1,
+  "intentional_fault_hold_seconds": 2,
+  "clock": "monotonic duration; UTC wall time for evidence"
+}
