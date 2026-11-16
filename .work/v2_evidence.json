@@ -1,0 +1,2365 @@
+{
+  "sha256": "8677285f5572be2f0c9326f06a2472808c77fa247904287819104cd063ac156b",
+  "sections": [
+    {
+      "page_width": "7560310",
+      "page_height": "10692130",
+      "top_margin": "914400",
+      "bottom_margin": "914400",
+      "left_margin": "1143000",
+      "right_margin": "1143000",
+      "header_distance": "457200",
+      "footer_distance": "457200",
+      "start_type": "NEW_PAGE (2)",
+      "different_first_page_header_footer": "True"
+    }
+  ],
+  "styles": [
+    {
+      "name": "Normal",
+      "font": null,
+      "size": "None",
+      "bold": null,
+      "color": "None",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Normal\" w:default=\"1\">\n  <w:name w:val=\"normal\"/>\n</w:style>\n"
+    },
+    {
+      "name": "Title",
+      "font": "Times New Roman",
+      "size": "304800",
+      "bold": true,
+      "color": "000000",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Title\">\n  <w:name w:val=\"Title\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:pPr>\n    <w:keepNext w:val=\"1\"/>\n    <w:keepLines w:val=\"1\"/>\n    <w:widowControl w:val=\"1\"/>\n    <w:spacing w:after=\"300\" w:before=\"0\" w:line=\"276\" w:lineRule=\"auto\"/>\n    <w:jc w:val=\"center\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Times New Roman\" w:cs=\"Times New Roman\" w:eastAsia=\"Times New Roman\" w:hAnsi=\"Times New Roman\"/>\n    <w:b w:val=\"1\"/>\n    <w:bCs w:val=\"1\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"48\"/>\n    <w:szCs w:val=\"48\"/>\n  </w:rPr>\n</w:style>\n"
+    },
+    {
+      "name": "Subtitle",
+      "font": "Times New Roman",
+      "size": "228600",
+      "bold": true,
+      "color": "000000",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Subtitle\">\n  <w:name w:val=\"Subtitle\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:pPr>\n    <w:keepNext w:val=\"1\"/>\n    <w:keepLines w:val=\"1\"/>\n    <w:widowControl w:val=\"1\"/>\n    <w:spacing w:after=\"240\" w:before=\"0\" w:line=\"276\" w:lineRule=\"auto\"/>\n    <w:jc w:val=\"center\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Times New Roman\" w:cs=\"Times New Roman\" w:eastAsia=\"Times New Roman\" w:hAnsi=\"Times New Roman\"/>\n    <w:b w:val=\"1\"/>\n    <w:bCs w:val=\"1\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"36\"/>\n    <w:szCs w:val=\"36\"/>\n  </w:rPr>\n</w:style>\n"
+    },
+    {
+      "name": "Heading 1",
+      "font": "Times New Roman",
+      "size": "203200",
+      "bold": true,
+      "color": "000000",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Heading1\">\n  <w:name w:val=\"heading 1\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:pPr>\n    <w:keepNext w:val=\"1\"/>\n    <w:keepLines w:val=\"1\"/>\n    <w:pageBreakBefore w:val=\"1\"/>\n    <w:widowControl w:val=\"1\"/>\n    <w:spacing w:after=\"180\" w:before=\"0\" w:line=\"276\" w:lineRule=\"auto\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Times New Roman\" w:cs=\"Times New Roman\" w:eastAsia=\"Times New Roman\" w:hAnsi=\"Times New Roman\"/>\n    <w:b w:val=\"1\"/>\n    <w:bCs w:val=\"1\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"32\"/>\n    <w:szCs w:val=\"32\"/>\n  </w:rPr>\n</w:style>\n"
+    },
+    {
+      "name": "Heading 2",
+      "font": "Times New Roman",
+      "size": "177800",
+      "bold": true,
+      "color": "000000",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Heading2\">\n  <w:name w:val=\"heading 2\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:pPr>\n    <w:keepNext w:val=\"1\"/>\n    <w:keepLines w:val=\"1\"/>\n    <w:widowControl w:val=\"1\"/>\n    <w:spacing w:after=\"100\" w:before=\"200\" w:line=\"276\" w:lineRule=\"auto\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Times New Roman\" w:cs=\"Times New Roman\" w:eastAsia=\"Times New Roman\" w:hAnsi=\"Times New Roman\"/>\n    <w:b w:val=\"1\"/>\n    <w:bCs w:val=\"1\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"28\"/>\n    <w:szCs w:val=\"28\"/>\n  </w:rPr>\n</w:style>\n"
+    },
+    {
+      "name": "Heading 3",
+      "font": "Times New Roman",
+      "size": "165100",
+      "bold": true,
+      "color": "000000",
+      "format": "<w:style xmlns:w=\"http://schemas.openxmlformats.org/wordprocessingml/2006/main\" xmlns:mc=\"http://schemas.openxmlformats.org/markup-compatibility/2006\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:m=\"http://schemas.openxmlformats.org/officeDocument/2006/math\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:wp=\"http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing\" xmlns:w10=\"urn:schemas-microsoft-com:office:word\" xmlns:wne=\"http://schemas.microsoft.com/office/word/2006/wordml\" xmlns:sl=\"http://schemas.openxmlformats.org/schemaLibrary/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:pic=\"http://schemas.openxmlformats.org/drawingml/2006/picture\" xmlns:c=\"http://schemas.openxmlformats.org/drawingml/2006/chart\" xmlns:lc=\"http://schemas.openxmlformats.org/drawingml/2006/lockedCanvas\" xmlns:dgm=\"http://schemas.openxmlformats.org/drawingml/2006/diagram\" xmlns:wps=\"http://schemas.microsoft.com/office/word/2010/wordprocessingShape\" xmlns:wpg=\"http://schemas.microsoft.com/office/word/2010/wordprocessingGroup\" xmlns:w14=\"http://schemas.microsoft.com/office/word/2010/wordml\" xmlns:w15=\"http://schemas.microsoft.com/office/word/2012/wordml\" xmlns:w16=\"http://schemas.microsoft.com/office/word/2018/wordml\" xmlns:w16cex=\"http://schemas.microsoft.com/office/word/2018/wordml/cex\" xmlns:w16cid=\"http://schemas.microsoft.com/office/word/2016/wordml/cid\" xmlns=\"http://schemas.microsoft.com/office/tasks/2019/documenttasks\" xmlns:cr=\"http://schemas.microsoft.com/office/comments/2020/reactions\" w:type=\"paragraph\" w:styleId=\"Heading3\">\n  <w:name w:val=\"heading 3\"/>\n  <w:basedOn w:val=\"Normal\"/>\n  <w:next w:val=\"Normal\"/>\n  <w:pPr>\n    <w:keepNext w:val=\"1\"/>\n    <w:keepLines w:val=\"1\"/>\n    <w:widowControl w:val=\"1\"/>\n    <w:spacing w:after=\"80\" w:before=\"140\" w:line=\"276\" w:lineRule=\"auto\"/>\n  </w:pPr>\n  <w:rPr>\n    <w:rFonts w:ascii=\"Times New Roman\" w:cs=\"Times New Roman\" w:eastAsia=\"Times New Roman\" w:hAnsi=\"Times New Roman\"/>\n    <w:b w:val=\"1\"/>\n    <w:bCs w:val=\"1\"/>\n    <w:i w:val=\"0\"/>\n    <w:iCs w:val=\"0\"/>\n    <w:color w:val=\"000000\"/>\n    <w:sz w:val=\"26\"/>\n    <w:szCs w:val=\"26\"/>\n  </w:rPr>\n</w:style>\n"
+    }
+  ],
+  "paragraph_samples": [
+    {
+      "i": 0,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "             HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "152400",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "177800",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "       \t\tVIỆN KHOA HỌC KỸ THUẬT BƯU ĐIỆN",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "152400",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "177800",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "152400",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "  BÁO CÁO BÀI TẬP LỚN",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": true,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "254000",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "  \t",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "203200",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "THIẾT KẾ GIẢI PHÁP CHUYỂN ĐỔI HẠ TẦNG\nMÁY CHỦ DOANH NGHIỆP LÊN CLOUD IAAS\n(DỰ ÁN MPL LOGISTICS)  ",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "228600",
+          "bold": true,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "203200",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.0",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "     Giảng viên hướng dẫn: Nguyễn Xuân Dũng\t",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "177800",
+          "bold": true,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "177800",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "NHÓM THỰC HIỆN: NHÓM 4 NGƯỜI",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "127000",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "1. Đặng Thái An - B24DCCC002 \n2. Phạm Minh Đức - B24DCCC071\n3. Vũ Tiến Đạt - B24DCCC062\n4. Trần Thị Lan Anh",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "None",
+      "after": "127000",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "457200",
+      "left": "457200",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "                                             Hà Nội – 11/2026",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "0",
+      "left": "0",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "177800",
+          "bold": null,
+          "color": "None"
+        },
+        {
+          "font": null,
+          "size": "177800",
+          "bold": true,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "None",
+      "after": "0",
+      "line": "1.5",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "",
+      "style": "normal",
+      "align": "None",
+      "before": "0",
+      "after": "0",
+      "line": "0.16666666666666666",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "CHƯƠNG 1. TỔNG QUAN VỀ HẠ TẦNG MÁY CHỦ ON-PREMISES",
+      "style": "Heading 1",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "203200",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "1.1. Tổng quan hạ tầng công nghệ thông tin doanh nghiệp",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "1.1.1. Bốn thành phần cốt lõi: Compute, Network, Storage, Software",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "1.1.2. Vai trò của hệ thống máy chủ trong vận hành doanh nghiệp",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "1.2. Các thành phần của hạ tầng máy chủ",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "text": "1.3. Mô hình triển khai On-Premises",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "text": "1.4. Phân tích ưu điểm và hạn chế của mô hình On-Premises",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "text": "1.5. Những động lực thúc đẩy doanh nghiệp chuyển đổi lên Cloud",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "text": "CHƯƠNG 2. CƠ SỞ LÝ THUYẾT VỀ CLOUD COMPUTING & IAAS",
+      "style": "Heading 1",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "203200",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "text": "2.1. Tổng quan về Điện toán đám mây (Cloud Computing)",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "text": "2.1.1. Khái niệm",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "text": "2.1.2. Đặc điểm",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "text": "2.1.3. Lợi ích",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "text": "2.1.4. Hạn chế và rủi ro",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "text": "2.2. Các mô hình dịch vụ Cloud (Service Models)",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "text": "2.3. Bảng so sánh chi tiết IaaS, PaaS và SaaS theo góc độ hạ tầng & ứng dụng",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "text": "2.4. Các mô hình triển khai Cloud (Deployment Models)",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "text": "2.4.1. Public Cloud (đám mây công cộng)",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "text": "2.4.2. Private Cloud (đám mây riêng)",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "text": "2.4.3. Hybrid Cloud (đám mây lai)",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "text": "2.4.4. Community Cloud (đám mây cộng đồng)",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "text": "2.4.5. So sánh và liên hệ với MPL",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "text": "2.5. Mô hình chia sẻ trách nhiệm bảo mật và vận hành",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 135,
+      "text": "2.6. Tiêu chí đánh giá mức phù hợp của mô hình dịch vụ với bài toán",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 145,
+      "text": "CHƯƠNG 3. KHẢO SÁT MPL VÀ XÁC ĐỊNH YÊU CẦU CHUYỂN ĐỔI LÊN IAAS",
+      "style": "Heading 1",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "203200",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 146,
+      "text": "3.1. Giới thiệu doanh nghiệp giả định – Công ty Logistics Minh Phát (MPL)",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 147,
+      "text": "3.1.1. Khái quát doanh nghiệp và phạm vi hoạt động",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 152,
+      "text": "3.1.2. Các nghiệp vụ và hệ thống ứng dụng đang sử dụng",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 156,
+      "text": "3.1.3. Đặc điểm tải và nhu cầu duy trì, phát triển hoạt động",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 161,
+      "text": "3.2. Phương pháp khảo sát hiện trạng và giả định nghiên cứu",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 162,
+      "text": "3.2.1. Mục tiêu và phạm vi khảo sát",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 166,
+      "text": "3.2.2. Nguồn dữ liệu và cách phân loại thông tin",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 171,
+      "text": "3.2.3. Phương pháp khảo sát, phân tích và đánh giá",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 177,
+      "text": "3.2.4. Giới hạn nghiên cứu và độ tin cậy của số liệu",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 185,
+      "text": "3.3. Khảo sát chi tiết hiện trạng hạ tầng On-Premises của MPL",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 187,
+      "text": "3.3.1. Hệ thống máy chủ vật lý và phần mềm",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 192,
+      "text": "3.3.2. Hệ thống mạng và luồng kết nối",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 194,
+      "text": "3.3.3. Hệ thống lưu trữ và cơ sở dữ liệu",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 196,
+      "text": "3.3.4. Bảng tổng hợp hiện trạng hạ tầng (Bảng khảo sát 7 hạng mục)",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 203,
+      "text": "3.4.1. Sơ đồ kiến trúc tổng thể As-Is",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 205,
+      "text": "Hình 3.1: Sơ đồ kiến trúc hạ tầng On-Premises (As-Is) của MPL",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "50800",
+      "after": "63500",
+      "line": "1.05",
+      "first_indent": "0",
+      "left": "0",
+      "page_break": false,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "152400",
+          "bold": false,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "i": 206,
+      "text": "3.4.2. Thuyết minh luồng dữ liệu và tương tác nội bộ",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 216,
+      "text": "3.5. Phân tích các hạn chế và rủi ro của hạ tầng hiện tại",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 223,
+      "text": "3.6. Xác định yêu cầu và ràng buộc hệ thống sau chuyển đổi",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 225,
+      "text": "3.6.1. Yêu cầu hệ thống sau chuyển đổi",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 229,
+      "text": "3.6.2. Ràng buộc hệ thống sau chuyển đổi",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 235,
+      "text": "BỔ SUNG 3.6 – Truy vết thay đổi ràng buộc ngân sách [Giả định bài toán, 15/11/2026]",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 236,
+      "text": "Ngân sách sơ bộ ở giai đoạn xác định vấn đề là Cloud khoảng 15 triệu VNĐ/tháng và migration tối đa 100 triệu VNĐ; đây là",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 237,
+      "text": "",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 238,
+      "text": "3.7. Cơ sở áp dụng IaaS cho MPL và đối chiếu các mô hình dịch vụ",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 240,
+      "text": "3.7.1. Phạm vi triển khai IaaS",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 242,
+      "text": "3.7.2. Đối chiếu định tính giữa các mô hình",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 246,
+      "text": "3.7.3. Minh họa ảnh hưởng của ưu tiên đánh giá",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 251,
+      "text": "3.7.4. Nhận xét",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 257,
+      "text": "3.8. Phân tích lý thuyết các chiến lược chuyển đổi Cloud (7 Rs)",
+      "style": "Heading 2",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "177800",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 258,
+      "text": "3.8.1. Khái niệm và vai trò của khung 7 Rs",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 262,
+      "text": "3.8.2. Rehost",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 266,
+      "text": "3.8.3. Relocate",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 270,
+      "text": "3.8.4. Replatform",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 274,
+      "text": "3.8.5. Refactor hoặc Rearchitect",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 278,
+      "text": "3.8.6. Repurchase",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 282,
+      "text": "3.8.7. Retain",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 285,
+      "text": "3.8.8. Retire",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 288,
+      "text": "3.8.9. So sánh phạm vi thay đổi của các chiến lược",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    },
+    {
+      "i": 290,
+      "text": "Hình 3.2: Ví dụ so sánh Rehost Replatform và Refactor [Minh họa lý thuyết]",
+      "style": "normal",
+      "align": "CENTER (1)",
+      "before": "50800",
+      "after": "63500",
+      "line": "1.05",
+      "first_indent": "0",
+      "left": "0",
+      "page_break": false,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "152400",
+          "bold": false,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "i": 291,
+      "text": "Hình 3.2 sử dụng cùng một xuất phát điểm là ứng dụng quản lý đơn kết nối cơ sở dữ liệu và lưu file. Ba nhánh giữ cùng mụ",
+      "style": "normal",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": null,
+          "color": "000000"
+        }
+      ]
+    },
+    {
+      "i": 298,
+      "text": "3.8.10. Phương pháp lựa chọn chiến lược",
+      "style": "Heading 3",
+      "align": "LEFT (0)",
+      "before": "None",
+      "after": "None",
+      "line": "None",
+      "first_indent": "None",
+      "left": "None",
+      "page_break": null,
+      "runs": [
+        {
+          "font": "Times New Roman",
+          "size": "165100",
+          "bold": true,
+          "color": "000000"
+        },
+        {
+          "font": null,
+          "size": "None",
+          "bold": null,
+          "color": "None"
+        }
+      ]
+    }
+  ],
+  "run_counts": [
+    [
+      "('Times New Roman', '165100', None)",
+      549
+    ],
+    [
+      "('Times New Roman', '165100', True)",
+      220
+    ],
+    [
+      "(None, 'None', None)",
+      86
+    ],
+    [
+      "('Times New Roman', '177800', True)",
+      46
+    ],
+    [
+      "('Times New Roman', '152400', False)",
+      41
+    ],
+    [
+      "('Times New Roman', '146050', False)",
+      25
+    ],
+    [
+      "('Times New Roman', '203200', True)",
+      11
+    ],
+    [
+      "('Times New Roman', '165100', False)",
+      8
+    ],
+    [
+      "('Consolas', '139700', False)",
+      8
+    ],
+    [
+      "(None, '177800', True)",
+      6
+    ],
+    [
+      "(None, '146050', None)",
+      3
+    ],
+    [
+      "(None, '203200', True)",
+      2
+    ]
+  ],
+  "parts": [
+    {
+      "name": "word/footer1.xml",
+      "size": 2215,
+      "sha256": "6c794384011c3bc754f47ff5c6f619e56e938b8eddb0794e8d9a3ee040589503"
+    },
+    {
+      "name": "word/numbering.xml",
+      "size": 41325,
+      "sha256": "91c9e4de0fb4584485eb9964a2c62787e5a46f1699acc83705bcd5f223d51068"
+    },
+    {
+      "name": "word/settings.xml",
+      "size": 2152,
+      "sha256": "26f2853fde05b88d4b0a9da0bb016d56a896901f60c9272dddf33c3f3fa61e4a"
+    },
+    {
+      "name": "word/fontTable.xml",
+      "size": 2198,
+      "sha256": "449b3810d50a7557632b811ac8538e232b6527402038abd8851908f07f65a9ee"
+    },
+    {
+      "name": "word/_rels/fontTable.xml.rels",
+      "size": 711,
+      "sha256": "4f3064cc12a44b0fa2c7a2189f7019c652ef78fe771990272db58a3b114682e4"
+    },
+    {
+      "name": "word/styles.xml",
+      "size": 22648,
+      "sha256": "2d034b40b0b1889eec9523f7558e056bf7cc346bca78bf26722b854e2d2d12cd"
+    },
+    {
+      "name": "word/document.xml",
+      "size": 3918112,
+      "sha256": "a5d51ebfb93221922e9559a7804b3701bafc0e898e8aba39191b390f30ffb50f"
+    },
+    {
+      "name": "word/_rels/document.xml.rels",
+      "size": 2402,
+      "sha256": "823d24f3486170f2e6d4765c21ec762b16767471194a196ee8b3a142adae8ba3"
+    },
+    {
+      "name": "_rels/.rels",
+      "size": 298,
+      "sha256": "1cc87395d4a229f21c23af406724de12dd9454071925f983e4b648a7b2be8cc5"
+    },
+    {
+      "name": "word/theme/theme1.xml",
+      "size": 7643,
+      "sha256": "b2295d3198893d2c03f5e584c749a15751b798aefdcd9bee2889f13903d68cb2"
+    },
+    {
+      "name": "word/media/image3.png",
+      "size": 74268,
+      "sha256": "11493caf849e110ed7aa38e258b350b7688c98e354f1e062a3ef3d9fabde3035"
+    },
+    {
+      "name": "word/fonts/Caudex-bold.ttf",
+      "size": 441900,
+      "sha256": "309a795d962fa15d988ea1870b03b1e51c9d0ff0fe1ad519ecde5f7dc8c80f76"
+    },
+    {
+      "name": "word/media/image4.png",
+      "size": 75688,
+      "sha256": "5db89833730a20fa84a9e251c0203ade2c6f33459c965f0ac01b72bc8113f07d"
+    },
+    {
+      "name": "word/fonts/Caudex-regular.ttf",
+      "size": 436972,
+      "sha256": "6bad3f1cb862b19b5e800eb7116cfaf8f8461bca8c6545940338feebc3228c5c"
+    },
+    {
+      "name": "word/media/image6.png",
+      "size": 74188,
+      "sha256": "4eae80d81fd1e366e49ec309adaaee45a581081363fcd458eab5bd990d00c752"
+    },
+    {
+      "name": "word/media/image8.png",
+      "size": 86047,
+      "sha256": "4298b00aa33afd72e707c20fa0e3d213872a233d9ba194fc6fa469009890f96d"
+    },
+    {
+      "name": "word/media/image11.png",
+      "size": 63054,
+      "sha256": "fab7059d810b9597751f96844dbe41230be64d3e8504e093b62703f5f86a5b9e"
+    },
+    {
+      "name": "word/media/image2.png",
+      "size": 130599,
+      "sha256": "a35ad7563f4c3a3b77bfc821a5aaf3fd336fdfd2f6af2b9aff584930ec5448f3"
+    },
+    {
+      "name": "word/media/image5.png",
+      "size": 62239,
+      "sha256": "fe6dcd7fa1e0f2bf791b0ceb6a21825b16c20dbbd904eaa3a84a7c87ddcd4ddf"
+    },
+    {
+      "name": "word/fonts/Caudex-boldItalic.ttf",
+      "size": 527224,
+      "sha256": "27a4c14cc40440b2dd227c828238b43ab9349555328cd7734e8d77c79ae6a48f"
+    },
+    {
+      "name": "word/media/image1.jpg",
+      "size": 107526,
+      "sha256": "ef8afd4ffbffdeb66986a7dd9ec019535f864870f12cf93c9a1769817c26e6c8"
+    },
+    {
+      "name": "word/fonts/Caudex-italic.ttf",
+      "size": 529260,
+      "sha256": "0d1f84575ce37ef0fbf0a099342a387489b425dcf3fc249e9b28fa3f9ecfbde5"
+    },
+    {
+      "name": "word/media/image9.png",
+      "size": 58538,
+      "sha256": "703e4eefb37880aad6941f7f6b8666d79387a115a2800e3d523dbbfbaf357577"
+    },
+    {
+      "name": "word/media/image10.png",
+      "size": 97884,
+      "sha256": "5ad14da59a41dfa8c999fbb98db1e9b74a0c3168d3dcf4b3265ba8d78054b8a6"
+    },
+    {
+      "name": "word/media/image7.png",
+      "size": 70414,
+      "sha256": "40d9fde70ae48b13c6a73de321a55ce3f73b0409b7405daed92ba86332516bda"
+    },
+    {
+      "name": "[Content_Types].xml",
+      "size": 1464,
+      "sha256": "415c715f7a686cd682f6975b6e4bd9c06f41f3704a694294b79b3f893dd7c5f9"
+    }
+  ]
+}

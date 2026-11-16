@@ -1,0 +1,10 @@
+﻿hang_muc,don_vi,so_luong,don_gia_gia_dinh,tien_te,thanh_tien,co_so
+Compute,VM-gio,730,0.05,USD,36.5,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Luu tru khoi,GiB-thang,80,0.1,USD,8,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Backup doc lap,GiB-thang,20,0.03,USD,0.6,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Du lieu truyen ra,GB-thang,100,0.1,USD,10,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Public IPv4,IP-gio,730,0.005,USD,3.65,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+DNS,goi-thang,1,1,USD,1,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Log va giam sat,goi-thang,1,5,USD,5,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Nhan su van hanh Web,gio-thang,4,100000,VND,400000,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap
+Van hanh he thong giu lai,goi-thang,1,800000,VND,800000,Gia dinh lap ngay 2026-11-16; khong phai bao gia nha cung cap

@@ -1,0 +1,4 @@
+﻿thanh_phan,vai_tro,cpu,ram,disk,ip_lab,cong,quyen
+SOURCE,Web nguon,1 vCPU,1 GiB,10 GiB,192.168.56.11,8080,Web chi doc
+TARGET,Web dich mo phong IaaS,1 vCPU,1 GiB,10 GiB,192.168.56.12,8080,Web chi doc
+CLIENT/GATEWAY,Dau truy cap on dinh,host,host,< 1 GiB,192.168.56.1,18080,Doi route boi nguoi quan tri

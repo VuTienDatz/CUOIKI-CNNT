@@ -1,0 +1,7 @@
+flowchart LR
+ U[Người dùng] --> G[Đầu truy cập ổn định]
+ G -->|trước chuyển đổi hoặc quay lui| S[Web nguồn]
+ G -->|sau chuyển đổi| T[Web đích mô phỏng IaaS]
+ DB[Dữ liệu nghiệp vụ giữ nội bộ] -->|bản xuất đã lọc| S
+ S -->|archive và SHA256| T
+ DB --- F[Chia sẻ tập tin giữ nội bộ]

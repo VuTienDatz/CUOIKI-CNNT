@@ -1,0 +1,24 @@
+{"instance": "target", "root": "C:\\Users\\LOQ\\Documents\\New folder\\CUOIKI\\Bo_nop_De10_MPL\\demo\\runs\\20261116T163440_724371Z\\target\\content", "host": "127.0.0.1", "port": 18082}
+2026-11-16T16:34:42.201913+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.240488+00:00 target "GET /health HTTP/1.1" 200 -
+2026-11-16T16:34:42.263861+00:00 target "GET /health HTTP/1.1" 200 -
+2026-11-16T16:34:42.296106+00:00 target "GET /health HTTP/1.1" 200 -
+2026-11-16T16:34:42.335244+00:00 target "GET /data/shipments.json HTTP/1.1" 200 -
+2026-11-16T16:34:42.358411+00:00 target "GET /health HTTP/1.1" 200 -
+2026-11-16T16:34:42.373773+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.405357+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.527820+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.632046+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.758778+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:42.883739+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.023776+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.149135+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.289482+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.392529+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.534991+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.658501+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.785041+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:43.908426+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:44.031410+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:44.155870+00:00 target "GET /health HTTP/1.1" 503 -
+2026-11-16T16:34:44.279970+00:00 target "GET /health HTTP/1.1" 503 -

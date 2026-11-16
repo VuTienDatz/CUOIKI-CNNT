@@ -1,0 +1,21 @@
+{
+  "files": [
+    {
+      "path": "data/shipments.json",
+      "bytes": 27005,
+      "sha256": "59ca45c66d9e1b4e6532946db72ab42e79412ba4ea0f7012df315fbdece78424"
+    },
+    {
+      "path": "files/readme.txt",
+      "bytes": 75,
+      "sha256": "851e08b4041442cb792827bf02c686403e3c5488ba15481c3b41bd1711c93961"
+    },
+    {
+      "path": "index.html",
+      "bytes": 802,
+      "sha256": "71cf55f4dd03e02b734495161441ad829eb55d2034c3b4eb983ed0026e5cb7b2"
+    }
+  ],
+  "file_count": 3,
+  "total_bytes": 27882
+}
